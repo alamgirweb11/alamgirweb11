@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## This is Alamgir
-### Junior Software Engineer of Annanovas It Ltd
+### Software Engineer of Annanovas It Ltd
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Laravel and Vue js.
-- 🌱 I’m currently learning Node and express js.
+- 🌱 I’m currently learning Docker, Kubernetes & CI/CD pipeline.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: alamgirweb11@gmail.com
